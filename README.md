@@ -5,6 +5,14 @@ A JavaFX-based Peg game implemented using MVC architecture.
 
 ---
 
+## 👥 Team Members
+- Sanika
+- Hasfa
+- Tananza
+- Farida
+
+---
+
 ## Features
 - JavaFX GUI with interactive peg board
 - MVC architecture (Model–View–Controller)
