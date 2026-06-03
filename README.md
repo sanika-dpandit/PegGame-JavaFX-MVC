@@ -1,7 +1,7 @@
 # PegGame-JavaFX-MVC
 # 🎮 Peg Game – JavaFX MVC Project
 
-A JavaFX-based Peg Solitaire game implemented using MVC architecture.
+A JavaFX-based Peg game implemented using MVC architecture.
 
 ---
 
